@@ -1,2 +1,2 @@
 # Paper-Implimentation
-In this repo. I will be sharing the papers I have re-implimented 
+In this repo. I will be sharing the projects based on reading the papers
